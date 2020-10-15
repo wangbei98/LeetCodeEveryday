@@ -20,7 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51bb8f7f-4c66-45b2-b827-7c1822bdb192" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/2020.10.15-116.填充每个节点的下一个右侧节点指针.go" afterPathEscaped="$PROJECT_DIR$/2020.10.15-🤔116.填充每个节点的下一个右侧节点指针.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020.10.14-215. 数组中的第K个最大元素.go" afterPathEscaped="$PROJECT_DIR$/2020.10.14-🤔215. 数组中的第K个最大元素.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020.10.15-124. 二叉树中的最大路径和.go" afterPathEscaped="$PROJECT_DIR$/2020.10.15-😭124. 二叉树中的最大路径和.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,6 +94,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
