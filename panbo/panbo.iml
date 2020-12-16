@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/10.15-medium-116.connect" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10.14-Microsoft-215.findKthLargest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10.14-easy-1002.commonChars" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10.15-Microsoft-hard124.maxPathSum" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
